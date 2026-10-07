@@ -1,7 +1,10 @@
 # README.md
 
 <h1 align="center">🛡️ SpartanPhalanx8 | Cybersecurity • Network Engineering • FinTech</h1>
-<h2 align="center">Strength through discipline. Defence in depth. Knowledge through practice.</h2>
+
+<p align="center">
+  <strong>Strength through discipline. Defence in depth. Knowledge through practice.</strong>
+</p>
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-Defence%20in%20Depth-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white"> <img src="https://img.shields.io/badge/NETWORK%20ENGINEERING-Infrastructure-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/5G-COMMUNICATIONS-6F42C1?style=for-the-badge&logo=qualcomm&logoColor=white"> <img src="https://img.shields.io/badge/FINTECH-FINANCIAL%20SECURITY-006B5F?style=for-the-badge&logo=bitcoin&logoColor=white"> <img src="https://img.shields.io/badge/LINUX-Kali%20%7C%20Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=white">
 
